@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Etienne Lagacé",
-  description: "Personal website of Etienne Lagacé",
+  title: "Étienne Lagacé",
+  description: "Personal website of Étienne Lagacé",
 };
 
 export default function RootLayout({
